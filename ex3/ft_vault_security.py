@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 def vault_security() -> None:
     """Perform secure file reading and writing with context managers."""
     try:
