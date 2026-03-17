@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 def ancient_txt_recovery() -> None:
     """Read and display the content of 'ancient_fragment.txt'."""
     try:

@@ -9,7 +9,7 @@ def stream_manager() -> None:
 
     print(f"\n[STANDARD] Archive status from {input_id}: {input_status}",
           file=sys.stdout)
-    print("[ALERT] System diagnostic: Communication channels verified", 
+    print("[ALERT] System diagnostic: Communication channels verified",
           file=sys.stderr)
     print("[STANDARD] Data transmission complete")
     print("\nThree-channel communication test successful.", file=sys.stdout)

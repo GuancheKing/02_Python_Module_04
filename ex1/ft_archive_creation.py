@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 def archive_creation() -> None:
     """Create 'new_discovery.txt' and write predefined entries."""
     file_name = "new_discovery.txt"
